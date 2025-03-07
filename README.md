@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luigi</h1>
-<h3 align="center">A passionate backend developer from Italy</h3>
+<h3 align="center">A passionate developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galloluigi&label=Profile%20views&color=0e75b6&style=flat" alt="galloluigi" /> </p>
 
-- 🌱 I’m currently learning **Looking for Work!**
+- 🌱 I’m currently  **Looking for Work!**
 
-- 💬 Ask me about **Development in java and microservices**
+- 💬 Ask me about **IT Security**
 
 - 📫 How to reach me **galloluigi30101999@gmail.com**
 
