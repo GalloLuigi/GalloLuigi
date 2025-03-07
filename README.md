@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galloluigi&label=Profile%20views&color=0e75b6&style=flat" alt="galloluigi" /> </p>
 
-- 🌱 I’m currently learning **IT security at university and various data science and machine learning courses**
+- 🌱 I’m currently learning **Looking for Work!**
 
 - 💬 Ask me about **Development in java and microservices**
 
